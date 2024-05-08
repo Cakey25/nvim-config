@@ -1,0 +1,8 @@
+
+way to run python files from a keymap
+file tree on the left
+how to create multiple windows and other files
+how to have a terminal open at the same time in nvim
+add some cool visual things and icons
+debugging and find out what a linter and that are
+
